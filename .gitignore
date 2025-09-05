@@ -94,4 +94,4 @@ target/
 
 # exclude data from source control by default
 /data/
-/src/services/ingestion/faq_scrapper/data/
+/src/services/ingestion/faq_scrapper/data/.env
